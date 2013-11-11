@@ -1,0 +1,18 @@
+.content {
+	width: 600px;
+}
+
+.btns {
+	width: 300px;
+}
+
+.titleWiki {
+	font-weight:bold;
+}
+
+.responseResult {
+	width: 300px;
+	height:auto;
+	border: #000000 solid 1px;
+}
+
